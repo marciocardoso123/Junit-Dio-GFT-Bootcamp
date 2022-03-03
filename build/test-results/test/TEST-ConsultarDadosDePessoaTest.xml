@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ConsultarDadosDePessoaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-03T20:05:36" hostname="mmc" time="0.033">
+  <properties/>
+  <testcase name="validarDadosDeRetorno()" classname="ConsultarDadosDePessoaTest" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[mar 03, 2022 5:05:36 PM BancoDeDados iniciarConexao
+INFORMAÇÕES: Iniciou Conexao
+mar 03, 2022 5:05:36 PM BancoDeDados finalizarConexao
+INFORMAÇÕES: Iniciou Conexao
+]]></system-err>
+</testsuite>
